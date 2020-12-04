@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781474863462",
+    "firebase_url": "https://waskita-748d4.firebaseio.com",
+    "project_id": "waskita-748d4",
+    "storage_bucket": "waskita-748d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781474863462:android:1f531201756a9d0ab790a7",
+        "android_client_info": {
+          "package_name": "com.example.epcclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781474863462-ucp3c6bnugopcvct1dhs3d28qa3maq04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcQuTHozSkpNBhuRZHnl05YScuxFDK3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781474863462-ucp3c6bnugopcvct1dhs3d28qa3maq04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+import 'dart:math';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:getwidget/components/accordian/gf_accordian.dart';
+import 'package:responsive_grid/responsive_grid.dart';
+import 'package:badges/badges.dart';
+import '../authentication_service.dart';
+import 'package:provider/provider.dart';
+import '../login.dart';
+
+part 'beranda.dart';
+part 'komptensi.dart';
+part 'kategori.dart';
+part 'pretest.dart';
+part 'pretest2.dart';
+part 'materi.dart';
+part 'hasil.dart';
+part 'daftar_sertifikat.dart';
+part 'daftar_materi.dart';
+part 'akun.dart';
